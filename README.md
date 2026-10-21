@@ -1,4 +1,4 @@
-# Water Quality Monitoring System
+## Water Quality Monitoring System
 
 ## Overview
 
@@ -14,10 +14,10 @@ An ESP32-based embedded system for monitoring water quality using sensors that m
 
 ## Software and Technologies
 
-- **C++ / Arduino IDE:** Firmware development and sensor interfacing.
+- **C++ :** Firmware development and sensor interfacing.
 - **FreeRTOS:** Real-time task scheduling and concurrent monitoring.
 - **MQTT:** Communication of measurement data to a remote platform.
-- **I²C:** Communication with the OLED display.
+- **I2C:** Communication with the OLED display.
 
 ## Key Features
 
